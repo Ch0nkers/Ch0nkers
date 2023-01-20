@@ -8,9 +8,7 @@
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ch0nkers&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ch0nkers&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ch0nkers&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+![Ch0nkers's Stats](https://github-readme-stats.vercel.app/api?username=Ch0nkers&theme=radical&show_icons=true&hide_border=true&count_private=false)
+![Ch0nkers's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ch0nkers&theme=radical&hide_border=true)
 ---
 [![](https://visitcount.itsvg.in/api?id=Ch0nkers&icon=2&color=1)](https://visitcount.itsvg.in)
